@@ -3,4 +3,4 @@ UPDATE
 SET
     discount = 30
 WHERE
-    unit_price > 10.000;
+    unit_price < 10.000;
