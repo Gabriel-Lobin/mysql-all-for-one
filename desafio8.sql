@@ -3,4 +3,6 @@ SELECT
     'de' AS 'Trybe',
     2 + 8 AS 'eh'
 FROM
-    northwind.products;
+    northwind.products
+LIMIT
+    1;
