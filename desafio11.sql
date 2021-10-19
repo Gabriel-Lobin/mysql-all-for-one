@@ -1,5 +1,5 @@
 SELECT
-    *
+    noters
 FROM
     northwind.purchase_orders
 WHERE
